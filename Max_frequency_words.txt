@@ -1,0 +1,25 @@
+Train
+
+'for_PRP': 78770, 
+'was_VBD': 82440,
+'is_VBZ': 91154,
+'to_PRP': 92954, 
+'to_TO0': 147664, 
+'in_PRP': 157584, 
+'a_AT0': 198465, 
+'and_CJC': 234299,
+'of_PRF': 285402, 
+'the_AT0': 525421
+
+Test
+
+'for_PRP': 28771, 
+'is_VBZ': 36731, 
+'was_VBD': 38017, 
+'to_PRP': 38263, 
+'to_TO0': 59034, 
+'in_PRP': 60764, 
+'a_AT0': 80398, 
+'and_CJC': 97072, 
+'of_PRF': 119887, 
+'the_AT0': 212493
