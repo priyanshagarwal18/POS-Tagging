@@ -5900,6 +5900,106 @@ reincarnation : 14
 ] : 631
 ! : 4269
 .. : 25
+at least : 873
+In addition : 106
+so as : 77
+in terms of : 290
+for example : 615
+Aside from : 4
+on to : 320
+no one : 257
+as to : 223
+on behalf of : 66
+ahead of : 74
+at once : 136
+in order : 431
+in possession of : 5
+No one : 108
+such as : 1173
+no longer : 359
+even though : 179
+so that : 792
+by now : 71
+From time to time : 11
+At first : 66
+subject to : 163
+up to : 907
+at best : 35
+out of : 1685
+No matter how : 13
+more than : 405
+of course : 872
+no matter how : 40
+provided that : 31
+in particular : 185
+as if : 673
+At present : 31
+Because of : 98
+by far : 40
+all the same : 20
+as well : 239
+Once again : 54
+at all : 569
+for good : 19
+once again : 126
+along with : 182
+As to : 18
+due to : 282
+on the part of : 73
+per cent : 1045
+in favour of : 113
+away from : 471
+with regard to : 40
+even when : 98
+so long as : 38
+in return for : 30
+In order : 86
+in case : 84
+in that : 75
+As soon as : 53
+just about : 33
+in touch with : 51
+because of : 585
+in charge of : 52
+instead of : 246
+for fear of : 20
+in full : 9
+All of a sudden : 5
+Now that : 33
+rather than : 828
+apart from : 196
+for certain : 10
+no doubt : 129
+Apart from : 136
+as well as : 659
+according to : 358
+in contact with : 27
+each other : 473
+Of course : 335
+out of touch with : 10
+According to : 201
+At best : 7
+prior to : 100
+Time and again : 7
+Considering that : 2
+in front of : 255
+in connection with : 25
+as soon as : 121
+on board : 54
+next to : 122
+even if : 276
+contrary to : 40
+Even if : 102
+at first : 140
+in addition to : 49
+en route : 25
+all right : 131
+By now : 27
+in defiance of : 3
+let alone : 58
+in conjunction with : 40
+other than : 176
+upwards of : 6
 selection : 241
 practical : 356
 guide : 228
@@ -7421,6 +7521,29 @@ fitting : 137
 BSc : 2
 Company.based : 1
 ........ : 1
+in addition : 23
+whether or not : 90
+a little : 442
+and so on : 228
+As yet : 1
+except for : 60
+in spite of : 103
+by means of : 60
+For example : 219
+for instance : 169
+in place of : 21
+that is : 155
+as it were : 28
+depending on : 85
+as long as : 83
+as between : 3
+as regards : 22
+at last : 141
+subsequent to : 1
+as usual : 53
+less than : 128
+a bit : 299
+Given that : 23
 unleaded : 17
 Fuel : 15
 MANY : 9
@@ -10064,6 +10187,35 @@ Thinned : 2
 silver : 176
 Hammerite : 1
 regalvanising : 1
+spot on : 2
+at present : 88
+Depending on : 15
+brand new : 16
+in line with : 27
+as opposed to : 53
+a lot : 100
+on top of : 103
+in need of : 46
+In reply to : 2
+as for : 40
+in common with : 25
+as though : 161
+in situ : 18
+all but : 29
+fed up : 12
+a little bit : 6
+for long : 25
+well off : 11
+straight forward : 4
+in excess of : 26
+in relation to : 132
+vice versa : 32
+with respect to : 23
+in view of : 39
+with a view to : 26
+At worst : 4
+and so forth : 7
+off of : 10
 Values : 6
 Hispanic : 4
 contributing : 41
@@ -12712,6 +12864,34 @@ polarisation : 2
 shoulders : 179
 coalitions : 1
 advances : 79
+In general : 42
+In the main : 3
+Prior to : 15
+In line with : 2
+now that : 61
+in comparison with : 13
+in general : 134
+In terms of : 23
+Out of : 37
+In comparison with : 2
+As well as : 58
+status quo : 20
+in part : 85
+per se : 12
+relative to : 26
+in search of : 71
+in accordance with : 44
+per capita : 16
+In common with : 6
+In response to : 10
+that is to say : 27
+In between : 5
+Due to : 8
+in common : 37
+under way : 15
+at large : 38
+Along with : 14
+given that : 24
 Biography : 4
 Reputation : 2
 mute : 7
@@ -17913,6 +18093,44 @@ unpublished : 6
 propitious : 5
 integrity : 53
 / : 63
+with reference to : 6
+In addition to : 48
+insomuch that : 2
+by no means : 74
+at most : 14
+a great deal : 53
+At least : 86
+owing to : 28
+out of date : 10
+insofar as : 6
+as against : 12
+In the light of : 8
+so much as : 22
+As long as : 28
+for ever : 56
+In spite of : 69
+no matter where : 4
+Contrary to : 14
+Even though : 31
+once more : 84
+in the light of : 45
+as yet : 34
+At length : 3
+No longer : 7
+Insofar as : 6
+except that : 44
+Rather than : 26
+In support of : 3
+At last : 44
+pertaining to : 6
+In short : 23
+With reference to : 6
+In vain : 2
+in vain : 22
+in light of : 2
+In pursuit of : 1
+In light of : 1
+with relation to : 2
 Parental : 9
 INTRODUCTION : 18
 PARENTS : 2
@@ -19256,6 +19474,39 @@ Lydia : 7
 Karen : 27
 kicking : 33
 Consider : 36
+in respect of : 49
+In part : 12
+inter alia : 5
+in so far as : 24
+ex parte : 5
+irrespective of : 14
+in toto : 1
+for the most part : 16
+cause lbre">clbre : 1
+per annum : 35
+at random : 23
+IN RESPECT OF : 1
+Provided that : 4
+Ex parte : 1
+a good deal : 18
+nearest to : 10
+in support of : 27
+A bit : 15
+in private : 8
+by reason of : 3
+aside from : 10
+for the time being : 16
+out of line with : 1
+providing that : 3
+In particular : 48
+into line with : 4
+In view of : 30
+in loco parentis : 4
+In relation to : 4
+but for : 18
+Instead of : 57
+et al : 70
+Even so : 40
 CHAPTER : 27
 ONE : 38
 Maggie : 605
@@ -21146,6 +21397,31 @@ squeal : 6
 congratulations : 6
 Congratulations : 3
 matron : 11
+So that : 6
+All right : 55
+one another : 128
+ever so : 8
+by way of : 35
+over there : 42
+No doubt : 40
+Over here : 3
+femme fatale : 2
+all of a sudden : 9
+en suite : 10
+A little : 19
+As for : 40
+En route : 2
+in answer to : 2
+to boot : 2
+outside of : 28
+up until : 15
+As opposed to : 1
+en masse : 4
+Except for : 10
+kind of : 13
+A lot : 2
+far from : 40
+for once : 23
 awake : 35
 crumpled : 25
 sulking : 2
@@ -22289,6 +22565,23 @@ mincemeat : 1
 cohort : 3
 violin : 20
 unleashed : 13
+by and large : 16
+from now on : 11
+in vitro : 4
+From now on : 6
+from time to time : 54
+That is : 25
+ad infinitum : 4
+no matter what : 14
+No matter what : 9
+in favor of : 1
+au fait : 2
+All the same : 15
+As usual : 14
+any longer : 26
+near to : 27
+seeing that : 8
+sort of : 27
 GATHERING : 3
 STORM : 3
 INVISIBLE : 1
@@ -24211,6 +24504,18 @@ EVERYTHINGS : 1
 FREE : 39
 INCLUDING : 4
 BRAINWASHING : 2
+in aid of : 3
+inside out : 8
+Less than : 9
+in public : 32
+On top of : 13
+papier ch">mch : 3
+Up to : 25
+in response to : 44
+In front of : 15
+Even when : 17
+adjacent to : 24
+straight away : 21
 UNDERSTANDING : 4
 MENTAL : 7
 HANDICAP : 6
@@ -25032,6 +25337,12 @@ Ways : 7
 underestimate : 16
 bounded : 18
 summarising : 4
+spina bifida : 10
+A great deal : 4
+Spina Bifida : 8
+in the main : 10
+in keeping with : 14
+in consultation with : 7
 LOCAL : 5
 COLOUR : 3
 Milan : 171
@@ -27071,6 +27382,16 @@ barracks : 12
 1899 : 18
 constructional : 2
 pulpit : 23
+so called : 14
+upside down : 12
+in between : 31
+a La : 1
+Ahead of : 8
+objets d'art : 2
+Art Nouveau : 5
+Away from : 3
+hard up : 8
+anything but : 14
 STROUD : 1
 VALLEYS : 1
 Frome : 9
@@ -28602,6 +28923,11 @@ perseverence : 1
 100% : 16
 wholemeal : 7
 ... : 12
+nearer to : 13
+In keeping with : 5
+For instance : 62
+More than : 24
+in case of : 19
 Marketing : 33
 Crosier : 2
 supermarket : 25
@@ -29561,6 +29887,12 @@ Prep : 1
 PTR : 1
 co-operate : 15
 ISIS : 2
+up to date : 17
+well being : 3
+old fashioned : 8
+Kung Fu : 3
+half way : 11
+bona fide : 4
 Turbulent : 1
 EVERYONE : 4
 Montparnasse : 42
@@ -31110,6 +31442,15 @@ Dorival : 1
 19" pos="UNC">191819 : 1
 e" pos="UNC">Derme : 1
 Portrait : 19
+considering that : 3
+"> la : 4
+grande dame : 2
+all at once : 13
+In public : 2
+mea culpa : 3
+Hors d'oeuvres : 1
+"> la mode : 2
+a ">l : 1
 Bounds : 1
 Justification : 3
 defends : 6
@@ -31761,6 +32102,23 @@ constitutions : 1
 Cf. : 1
 520 : 2
 9" pos="UNC">5689 : 1
+in accord with : 4
+Inasmuch as : 2
+By and large : 4
+de facto : 11
+For the time being : 3
+inasmuch as : 5
+none the less : 22
+prima facie : 17
+So long as : 11
+in brief : 2
+matter of fact : 2
+Prima Facie : 1
+op. cit. : 1
+reductio ad absurdum : 3
+in pursuit of : 11
+Relative to : 1
+at long last : 4
 Salzburg : 56
 1871" pos="UNC">17561871 : 1
 Versuch : 3
@@ -32391,6 +32749,8 @@ discernment : 5
 allay : 7
 1781 : 6
 - : 21
+prima donna : 2
+in proportion to : 8
 HIGHWAYMEN : 1
 BROADMOOR : 2
 Surrey : 39
@@ -34094,6 +34454,15 @@ psychiatric : 8
 BULLBAITING : 1
 WOKINGHAM : 1
 BCL : 1
+BY WAY OF : 1
+sine die : 1
+at length : 24
+such that : 10
+nom de plume : 3
+In answer to : 5
+UP TO : 5
+as of : 18
+IN BRIEF : 3
 hansom : 5
 up-river : 1
 roof-top : 2
@@ -35184,6 +35553,16 @@ speculatively : 4
 debauch : 2
 conspiratorially : 5
 Martins : 1
+rigor mortis : 1
+For once : 7
+force majeure : 1
+for sure : 17
+once and for all : 11
+on account of : 31
+Next to : 11
+up front : 3
+none the : 6
+bon viveur : 1
 NCT : 153
 update : 13
 & : 3
@@ -36074,6 +36453,11 @@ Acton : 7
 W3 : 2
 6NH : 1
 8.00" pos="UNC">8.00 : 1
+Thanks to : 16
+carte blanche : 4
+Every so often : 2
+time and again : 5
+On behalf of : 1
 EDITORIAL : 3
 NEWS : 30
 GARDENER : 1
@@ -37340,6 +37724,14 @@ jostling : 9
 roost : 8
 dotty : 2
 Interview : 8
+in lieu of : 3
+In Search Of : 1
+In Search of : 3
+mezzo soprano : 1
+in association with : 7
+In Pursuit of : 2
+Anno Dom : 1
+in reply to : 4
 INHERITANCE : 1
 ESTABLISHMENT : 1
 EMPIRE : 2
@@ -38494,6 +38886,16 @@ sheet-anchor : 2
 convoking : 1
 camped : 14
 cook-boy : 2
+coup tat">d'tat : 5
+in defence of : 9
+In so far as : 5
+ancien gime" pos="UNC">rgime : 4
+"> propos : 1
+en famille : 2
+tabula rasa : 1
+entente cordiale : 1
+supposing that : 3
+at worst : 5
 Secretaries : 18
 consultations : 8
 References : 3
@@ -39148,6 +39550,8 @@ omissions : 12
 entailing : 3
 1.26 : 2
 attach : 43
+With regard to : 11
+pro forma : 1
 nationalisms : 9
 warriors : 26
 militants : 5
@@ -40251,6 +40655,15 @@ purged : 2
 inter-state : 3
 beachhead : 1
 half-shamefaced : 1
+alter ego : 1
+lingua franca : 4
+IN comparison with : 1
+At most : 2
+raison tre">d'tre : 7
+in regard to : 7
+even so : 12
+fait accompli : 2
+By means of : 4
 Shlomo : 17
 journeyed : 2
 snows : 6
@@ -41531,6 +41944,11 @@ lunging : 4
 skidding : 7
 Sahafeen : 2
 mirthless : 1
+every so often : 3
+Save for : 1
+none other : 3
+in General : 1
+agents provocateurs : 1
 INSIDE : 4
 SCIENCE : 6
 GROUNDWATER : 2
@@ -44031,6 +44449,12 @@ ATTACKING : 1
 ENEMY : 1
 UTTERLY : 1
 POINTLESS : 1
+In Brief : 1
+By far : 11
+a posteriori : 1
+ALONG WITH : 1
+Except that : 5
+And so on : 4
 Wilcox : 140
 bleep : 2
 6.45 : 1
@@ -45775,6 +46199,15 @@ dodgy : 6
 breathlessly : 7
 walkout : 1
 slewed : 2
+to and fro : 12
+En Suite : 1
+et cetera : 3
+alma mater : 1
+That is to say : 11
+par excellence : 6
+over here : 12
+As though : 3
+in short : 12
 PROLOGUE : 4
 endearment : 1
 babe : 9
@@ -47021,6 +47454,11 @@ Greatest : 3
 Hits : 21
 VW : 2
 affectation : 3
+Persona non grata : 1
+Once more : 6
+modus operandi : 3
+Mardi Gras : 5
+point blank : 3
 Laurence : 6
 Villard-MacKintosh : 1
 Gibson : 31
@@ -48136,6 +48574,10 @@ DM : 4
 40.000 : 1
 ...................... : 1
 .................. : 1
+In case : 7
+PURSUANT to : 1
+PROVIDED THAT : 1
+pursuant to : 6
 Sheet : 38
 Views : 5
 cohabitation : 14
@@ -48488,6 +48930,9 @@ Relatives : 4
 levied : 6
 accomodation : 2
 135" pos="UNC">135 : 1
+in receipt of : 4
+4 %;">%; : 1
+et al. : 10
 MONSTER : 1
 RAVING : 2
 LOONIES : 1
@@ -48632,6 +49077,7 @@ STAND : 1
 STATUS : 1
 QUO : 1
 GLOSSARY : 1
+STATUS QUO : 1
 Revealing : 3
 still-continuing : 1
 healthily : 3
@@ -49396,6 +49842,9 @@ substitutes : 9
 mutuality : 1
 house-sharing : 2
 disciplinarian : 4
+ex cathedra : 1
+For the most part : 13
+as from : 3
 Philippa : 2
 Sonia : 10
 Granddaughters : 1
@@ -51315,6 +51764,7 @@ pinhead : 2
 Excalibur : 11
 Abancay : 1
 visualisation : 4
+For long : 1
 CONTEXT : 2
 inter-statal : 4
 vestige : 7
@@ -51914,6 +52364,9 @@ Suspicion : 3
 community-based : 4
 Insiders : 1
 insiders : 3
+in co-operation with : 5
+in the order of : 7
+Shin Bet : 1
 VERY : 2
 TORY : 1
 OUSTING : 1
@@ -52592,6 +53045,8 @@ concurred : 2
 Amess : 1
 266 : 2
 Hanley : 1
+tout court : 1
+in camera : 4
 Latent : 11
 associability : 49
 Habituation : 1
@@ -53225,6 +53680,8 @@ habitation : 4
 well-specified : 1
 5.13 : 1
 renders : 7
+None the less : 20
+Whether or not : 9
 Peto : 1
 14" pos="UNC">314 : 1
 Eccleshall : 2
@@ -54047,6 +54504,11 @@ Light : 46
 Koudelka : 1
 Photovideo : 2
 Buchanan : 5
+Irrespective of : 2
+an awful lot : 4
+Nearer to : 1
+in as much as : 1
+Inside Out : 1
 Bowran : 24
 Barney : 7
 Aquatic : 2
@@ -54338,6 +54800,7 @@ Duane : 15
 Michals : 1
 87" pos="UNC">195687 : 1
 50s : 7
+art deco : 3
 Irina : 186
 Ludens : 275
 Marched : 2
@@ -54838,6 +55301,12 @@ trod : 5
 reverently : 2
 germinating : 1
 darken : 7
+Bon voyage : 1
+At once : 10
+for keeps : 1
+Such as : 2
+In vino veritas : 1
+modus vivendi : 2
 Conflicting : 1
 Mesarovic : 2
 Pestel : 1
@@ -55751,6 +56220,11 @@ graziers : 1
 ring-barking : 1
 Acknowledgement : 1
 Pandora : 9
+As regards : 20
+ceteris paribus : 2
+ad hoc : 10
+deus ex machina : 1
+a priori : 3
 NORTHERN : 4
 IRELAND : 4
 CIVIL : 1
@@ -56291,6 +56765,8 @@ shirt-factory : 1
 sit-in : 2
 Burntollet : 2
 incursion : 1
+Sinn in">Fin : 3
+In return for : 1
 serpent : 10
 boughs : 3
 Hesperidean : 2
@@ -57516,6 +57992,7 @@ Transcribe : 1
 f-air : 2
 squaring : 3
 imaginations : 3
+In connection with : 2
 Postmodernism : 8
 posteriority : 1
 McHale : 11
@@ -59067,6 +59544,11 @@ recovers : 5
 Orinoco : 12
 prehistoric : 13
 craftsmanship : 8
+Avant Garde : 1
+As against : 1
+alter egos : 1
+No One : 2
+in face of : 2
 ANY" pos="UNC">HRADANY : 2
 Matthias : 11
 t" pos="UNC">Bat : 2
@@ -60821,6 +61303,10 @@ be" pos="UNC">nbe : 1
 Wiehl : 1
 " pos="UNC">Malejovsk : 1
 Grueber : 2
+Art Deco : 6
+porte re">cochre : 7
+tour de force : 2
+Adjacent to : 2
 SURE : 2
 Highness : 3
 Fairbrother : 24
@@ -61674,6 +62160,8 @@ Climbing : 1
 gaucheness : 1
 Cairngorms : 7
 rabble-rousing : 2
+At Last : 3
+en bloc : 1
 Cleaning : 32
 Historically : 5
 sweeper : 2
@@ -62681,6 +63169,10 @@ hotter : 5
 preheating : 1
 abrasion : 4
 Scoring : 3
+On the part of : 1
+So called : 1
+In as much as : 1
+In case of : 3
 Betrayal : 1
 Rubha : 4
 Mull : 9
@@ -64557,6 +65049,8 @@ expendability : 1
 Corbusier : 2
 waist-high : 2
 undrunk : 2
+Far from : 1
+In conjunction with : 3
 Mystique : 1
 gainsaid : 2
 epigrammatist : 1
@@ -65953,6 +66447,8 @@ o" pos="UNC">Loureno : 4
 Marques : 3
 colonizers : 2
 forcefulness : 2
+fin de cle">sicle : 3
+at Once : 1
 SINGLE : 3
 giddy : 3
 teary : 2
@@ -67814,6 +68310,8 @@ Joining : 4
 all-breed : 1
 initiates : 2
 WD : 1
+Up until : 4
+at Best : 1
 ATHLETICS : 1
 NIKE : 6
 AIR : 3
@@ -68973,6 +69471,7 @@ Competing : 2
 coupon : 10
 Magazine/National : 1
 71" pos="UNC">6771 : 1
+Grand Prix : 2
 singlemindedness : 1
 Scion : 1
 Stirlings : 1
@@ -69593,6 +70092,10 @@ Chorus : 7
 boyfriend : 35
 Belching : 4
 flamer : 1
+Owing to : 3
+Once and for all : 1
+save that : 3
+In charge of : 1
 SAVE : 154
 BECOME : 1
 stridently : 1
@@ -70203,6 +70706,10 @@ GROUP : 6
 cross-infection : 2
 Burrell : 2
 Encouragingly : 1
+Ultra Vires : 1
+A la : 1
+SAVE that : 1
+SAVE for : 2
 STOPPING : 5
 STARTS : 2
 PROTECTING : 30
@@ -70434,6 +70941,7 @@ out-of-uniform : 2
 HELPING : 2
 shop-lifting : 1
 GUARDIAN : 1
+AWAY FROM : 3
 Metres : 1
 Mayle : 1
 yellow-papered : 2
@@ -71753,6 +72261,10 @@ Fucik : 2
 Chernenko : 2
 swerving : 1
 Cortina : 4
+terra incognita : 1
+au revoir : 1
+en passant : 1
+Over there : 3
 blazer : 5
 grammar-school : 55
 Kidlington : 10
@@ -72849,6 +73361,11 @@ coproduction : 1
 behind-the-scenes : 1
 power-brokers : 2
 prescheduled : 1
+avant garde : 9
+film noir : 2
+With respect to : 1
+In search of : 1
+de rigueur : 2
 Sub-Aqua : 2
 SCUBA : 6
 BEAVER : 2
@@ -73462,6 +73979,7 @@ boots/socks : 1
 220/240v : 1
 Reckon : 1
 100ASA : 1
+in Brief : 1
 Antibiotics : 2
 Microbes : 2
 Penicillium : 43
@@ -74382,6 +74900,7 @@ Endorphins : 1
 philosophically : 3
 biochemically : 1
 consciousness-generator : 1
+in vivo : 1
 Misconduct : 1
 Than : 3
 Reunion : 1
@@ -74809,6 +75328,7 @@ righteously : 2
 thankfulness : 1
 Cleanse : 1
 magnify : 1
+In place of : 5
 Anatomy : 1
 genitalia : 34
 uncircumcised : 4
@@ -75706,6 +76226,8 @@ mid-stream : 2
 MSU : 1
 clean-catch : 1
 CCSU : 1
+pari passu : 2
+sine qua non : 2
 POISONING : 2
 Twiggy : 5
 FATHER : 2
@@ -77494,6 +78016,14 @@ Patiently : 1
 astigmatic : 1
 Sanskrit : 3
 Mirrored : 2
+Terra Firma : 1
+hey presto : 1
+Old Fashioned : 1
+enfant terrible : 1
+At Least : 1
+al dente : 2
+me">crme che">frache : 1
+fromage frais : 1
 Tweed : 273
 Radnor : 24
 280E : 1
@@ -78956,6 +79486,10 @@ FIGHT : 1
 ACKLAM : 3
 HUGGING : 1
 POLICEWOMAN : 1
+through thick and thin : 1
+'69 '70,;">'70,; : 1
+'70 '71;">'71; : 1
+'72 '73.;">'73.; : 1
 Memes : 4
 replicators : 27
 non-genetic : 2
@@ -79423,6 +79957,9 @@ self-replication : 2
 self-replicators : 1
 vehicle-like : 1
 peppered : 2
+eminence grise : 1
+As well : 1
+as Well as : 1
 lurches : 2
 relearning : 9
 near-forgotten : 2
@@ -80791,6 +81328,11 @@ Vini : 2
 Reilly : 1
 Formby : 3
 gravestone : 1
+A La : 2
+Old fashioned : 1
+OUT OF : 4
+De Profundis : 1
+Out Of : 1
 BLACKWOMEN : 2
 CREATIVITY : 3
 RU : 19
@@ -81824,6 +82366,10 @@ WARNING : 6
 SOCIETY : 8
 SERIOUSLY : 1
 DAMAGE : 4
+Outside of : 1
+a capella : 1
+Sinn Fein : 2
+No Longer : 1
 Sackville : 2
 remainders : 1
 Langham : 1
@@ -82030,6 +82576,8 @@ Thatcherism : 14
 Semi-literacy : 1
 speech-writers : 1
 market-research-led : 2
+In lieu of : 1
+ad hominem : 1
 IFSCC : 7
 Benefactors : 1
 Praesidium : 1
@@ -82406,6 +82954,7 @@ thrombus : 1
 anti-coagulant : 1
 bus-stop : 2
 hemianopia : 1
+grand mal : 1
 house-buyers : 10
 mini-survey : 5
 2,200" pos="UNC">2,200 : 1
@@ -82788,6 +83337,10 @@ Gases : 1
 tremors : 3
 Emptor : 1
 professional/mortgage : 1
+about %);">%); n with : 2
+Subject to : 2
+caveat emptor : 1
+Caveat Emptor : 1
 Nevis : 21
 1223m : 1
 OS : 32
@@ -83788,6 +84341,13 @@ Cruachan : 1
 Y-shaped : 3
 tidings : 6
 condensation-covered : 1
+no matter who : 1
+chilli con carne : 1
+no matter which : 1
+me">crme e">brule g : 1
+NO MATTER where : 1
+AS SOON AS : 1
+In accordance with : 1
 pollard : 3
 sitting-rooms : 1
 Flatford : 3
@@ -84692,6 +85252,7 @@ farm-gate : 3
 ledgers : 1
 intangibles : 3
 .... : 1
+for Ever : 1
 Hardy' : 1
 Domicilium : 1
 3345 : 1
@@ -85274,6 +85835,10 @@ Stretton : 1
 battle-ground : 4
 moralist : 1
 171 : 1
+j">dj vu : 1
+post hoc : 1
+causes lbres">clbres : 1
+have nots : 1
 STRATHBEG : 3
 Stocked : 1
 Strathbeg : 33
@@ -86260,6 +86825,10 @@ Oscaig : 7
 finger-crossing : 2
 Garvie : 2
 Laze : 1
+terra firma : 1
+On to : 2
+Upwards of : 1
+Near to : 1
 caddie : 116
 LONGHURST : 2
 golf-mad : 1
@@ -86705,6 +87274,7 @@ bunker-shot : 1
 scorer : 1
 unsporting : 2
 central-heating : 2
+follow up : 1
 fair-mindedness : 1
 669 : 1
 Dicey : 31
@@ -87092,6 +87662,12 @@ Zeebrugge : 1
 Agu : 8
 54(13) : 1
 1.55 : 1
+ex hypothesi : 4
+ex officio : 1
+Pursuant to : 1
+seeing as : 1
+ultra vires : 1
+esprit de corps : 2
 Cranko : 93
 choreographer : 28
 deviser : 1
@@ -87642,6 +88218,13 @@ Moncion : 2
 ghoulishly : 2
 executors : 1
 Alderney : 1
+In that : 1
+save for : 1
+corps de ballet : 4
+Danse macabre : 1
+Pas de Deux : 1
+je ne sais quoi : 1
+pas de deux : 3
 thirtyish : 1
 onstream : 1
 doers : 1
@@ -88830,6 +89413,8 @@ pansying : 1
 coffee-and-cream : 1
 sixty-five-minute : 1
 cools : 12
+de Luxe : 3
+cordon bleu : 1
 BEGAN : 1
 Thrush : 84
 Lulling : 44
@@ -89239,6 +89824,7 @@ hauteur : 2
 MJ : 1
 wine-coloured : 1
 curtaining : 1
+By way of : 7
 Prehistory : 1
 palaeolithic : 3
 Lascaux : 2
@@ -90193,6 +90779,9 @@ mighte : 1
 nat : 1
 Agricola : 1
 Gargantua : 1
+Pax Romana : 1
+locus classicus : 1
+al fresco : 2
 HORSE : 8
 WORRIES : 4
 non-owner : 3
@@ -90607,6 +91196,7 @@ pelleted : 1
 balancers : 2
 forages : 1
 haylage : 2
+IN DEFENCE OF : 1
 Dragons : 2
 DAWNED : 1
 Amazonas : 1
@@ -91193,6 +91783,11 @@ buttonholes : 1
 Iguazu : 3
 Potala : 2
 2,470 : 1
+t">pt de foie gras : 2
+eau de cologne : 1
+On board : 1
+tour de Force : 1
+piece de resistance : 1
 Transsexualism : 1
 Single-sex : 1
 ineluctably : 1
@@ -91488,6 +92083,9 @@ mercy-killer : 1
 tightrope-walker : 3
 TEMPORARILY : 1
 EMERGENCY : 2
+mutatis mutandis : 1
+compos mentis : 1
+a fortiori : 1
 CELLS : 3
 EMBRYOS : 1
 structureless : 1
@@ -92798,6 +93396,8 @@ eruptive : 1
 tephrachronology : 3
 isotopic : 1
 real-estate : 1
+Just about : 3
+ad nauseam : 2
 Enjoyment : 1
 felon : 1
 Pirates : 3
@@ -93353,6 +93953,12 @@ short-order : 1
 do-it-yourselfer : 1
 leveller : 1
 Shakespearian : 1
+Let alone : 1
+sotto voce : 1
+ce">pice de sistance">rsistance : 1
+Nouvelle cuisine : 1
+au pair : 1
+spaghetti bolognese : 3
 Ingleborough : 105
 Penyghent : 10
 Whernside : 60
@@ -93779,6 +94385,7 @@ Gunnerside : 2
 Cuddy : 2
 Runscar : 3
 Enthusiasts : 2
+At long length : 1
 Moby : 2
 Melville : 3
 water-gazing : 5
@@ -94562,6 +95169,7 @@ car-wash : 2
 title-song : 1
 humpback : 1
 Unbearable : 2
+lo and behold : 1
 Cid : 189
 CHAMPION : 1
 hoofs : 1
@@ -95260,6 +95868,8 @@ steele : 1
 londe : 1
 honde : 1
 horsemanship : 2
+according as : 2
+coup de grace : 1
 nostalgically : 1
 teacher-dominated : 1
 post-primary : 2
@@ -95542,6 +96152,8 @@ out-of-school : 2
 time-tabling : 1
 non-school : 1
 Graded : 1
+bien pensant : 1
+bon mot : 1
 moulting : 1
 Bramley : 1
 recession-hit : 1
@@ -96008,6 +96620,10 @@ retires : 3
 synthesised : 2
 hip-hop : 2
 excitingly : 1
+Once More : 10
+In Touch With : 4
+In touch With : 1
+Status Quo : 1
 south" pos="UNC">northsouth : 1
 arch-supports : 1
 Scholl : 2
@@ -96444,6 +97060,8 @@ mustachioed : 1
 sallow : 1
 nine-fifteen : 1
 totting : 1
+aurora borealis : 1
+Au revoir : 2
 form-master : 2
 Sylvester : 45
 Raving : 2
@@ -96892,6 +97510,8 @@ police-car : 1
 police-station : 1
 But- : 1
 know- : 1
+Save that : 1
+an' all : 6
 Yachting : 3
 Gallwey : 4
 Windsurfing : 9
@@ -97281,6 +97901,8 @@ Non-slip : 1
 Windshift : 2
 Windsurfer : 3
 Schweitzer : 1
+sq m : 10
+Other than : 2
 CHRISTMAS : 2
 cased : 2
 Aggie : 19
@@ -98037,6 +98659,7 @@ $294 : 1
 break-even : 1
 Tokomak : 1
 Torus : 2
+Subsequent to : 1
 deanery : 4
 THEOLOGY : 2
 UNITY : 6
@@ -98137,6 +98760,7 @@ TN20 : 1
 WIDER : 1
 Tompkins : 1
 Triune : 1
+up till : 1
 SCREENS : 1
 ROSALIND : 2
 BRUNT : 2
@@ -98713,6 +99337,7 @@ Illustration : 5
 Morisot : 6
 Nourrice : 1
 nature- : 1
+In need of : 1
 Introibo : 1
 altare : 1
 Dei : 2
@@ -99654,6 +100279,8 @@ captivate : 1
 livening : 1
 conjurers : 1
 Glance : 2
+Follow up : 1
+No matter who : 1
 PHYSICAL : 2
 HOLISTIC : 2
 APPROACH : 1
@@ -99903,6 +100530,9 @@ Forgiveness : 2
 unsaid : 2
 SEEKING : 1
 FULFIL : 1
+Supposing that : 1
+even If : 5
+Per cent : 1
 ARCHERS : 1
 MUCK : 1
 EMMERDALE : 1
@@ -100878,6 +101508,8 @@ Teletext : 1
 544535 : 2
 Enclosed : 2
 P.P.S. : 1
+Au Revoir : 1
+Asti Spumante : 1
 pay-rise : 1
 Zetters : 1
 Assuring : 1
@@ -101772,6 +102404,13 @@ Solo : 1
 Surgery : 1
 Cashflow : 1
 Securities : 1
+OTHER THAN : 1
+IN FRONT OF : 1
+In respect of : 1
+FOR EXAMPLE : 1
+7 %;">%; : 2
+8 %;">%; : 1
+currently %;">%; : 1
 flexibly : 1
 GOES : 1
 MORTGAGES : 1
@@ -101842,6 +102481,7 @@ Lingard : 1
 Three-Piece : 1
 Luggage : 1
 Expenses : 1
+poste restante : 1
 RENTALS : 8
 MAGAZINE : 1
 SPRING : 2
