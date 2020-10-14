@@ -660,7 +660,7 @@ betrayed : 44
 ultra : 22
 secrets : 65
 code : 112
- : 513
+ : 79493
 cipher : 9
 school : 2330
 gccs : 14
@@ -1643,7 +1643,7 @@ upper : 282
 floors : 78
 empress : 133
 earls : 8
-' : 1568
+' : 1604
 course : 1793
 massive : 216
 using : 791
@@ -5530,6 +5530,17 @@ communicated : 23
 platitudinous : 1
 homilies : 2
 reincarnation : 17
+. : 170039
+, : 196062
+( : 11276
+) : 11421
+: : 8071
+; : 7999
+? : 10162
+[ : 630
+] : 631
+! : 4269
+.. : 25
 selection : 251
 practical : 371
 guide : 296
@@ -6908,6 +6919,7 @@ clean : 306
 fitting : 148
 bsc : 2
 company.based : 1
+........ : 1
 unleaded : 17
 fuel : 343
 rover : 553
@@ -15864,6 +15876,7 @@ burned : 72
 unpublished : 6
 propitious : 5
 integrity : 55
+/ : 63
 avoidance : 20
 expenditure : 119
 lea : 142
@@ -25037,6 +25050,7 @@ matured : 12
 perseverence : 1
 100% : 16
 wholemeal : 8
+... : 12
 crosier : 2
 supermarket : 25
 glaringly : 2
@@ -28307,6 +28321,7 @@ loser : 10
 discernment : 5
 allay : 7
 1781 : 6
+- : 21
 highwaymen : 6
 broadmoor : 10
 surrey : 41
@@ -41335,6 +41350,8 @@ props/costumes : 1
 store/sale : 1
 dm : 4
 40.000 : 1
+...................... : 1
+.................. : 1
 cohabitation : 16
 extra-marital : 13
 remarriage : 15
@@ -41437,7 +41454,7 @@ yts : 1
 dual-worker : 2
 jobless : 2
 81% : 2
-* : 26
+* : 41
 13%" pos="unc">1213% : 1
 12%" pos="unc">1012% : 1
 10%" pos="unc">510% : 1
@@ -71163,6 +71180,7 @@ intangible : 5
 farm-gate : 3
 ledgers : 1
 intangibles : 3
+.... : 1
 hardy' : 1
 domicilium : 1
 3345 : 1
@@ -81160,6 +81178,8 @@ whickered : 1
 stalky-legged : 1
 police-car : 1
 police-station : 1
+but- : 1
+know- : 1
 yachting : 5
 gallwey : 4
 windsurf : 6
@@ -82558,6 +82578,7 @@ kollwitz : 1
 losbruch : 1
 morisot : 6
 nourrice : 1
+nature- : 1
 introibo : 1
 altare : 1
 laetificat : 1
